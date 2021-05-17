@@ -1,0 +1,12 @@
+2021-05-16T10:56:57.513348+0300 INFO  :
+received a request with a method GET at the url http://127.0.0.1:5000/api/ with arguments: invalid=1
+2021-05-16T10:56:57.514346+0300 ERROR  :
+Invalid arguments in request!
+2021-05-16T10:56:57.560351+0300 INFO  :
+received a request with a method GET at the url http://127.0.0.1:5000/notapi/ with arguments: no arguments!
+2021-05-16T10:56:57.562355+0300 ERROR  :
+Not api url: http://127.0.0.1:5000/notapi/
+2021-05-16T10:56:57.671354+0300 INFO  :
+received a request with a method POST at the url http://127.0.0.1:5000/api/ with arguments: no arguments!
+2021-05-16T10:56:57.672352+0300 ERROR  :
+Not supported method: POST
